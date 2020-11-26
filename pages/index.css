@@ -26,6 +26,20 @@
 @import url(../blocks/lead/__caption/lead__caption.css);
 
 
+/* content/intro */
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+
+
+/* list */
+
+@import url(../blocks/list/list.css);
+@import url(../blocks/list/__heading/list__heading.css);
+@import url(../blocks/list/__text/list__text.css);
+
+
 
 /* footer */
 
