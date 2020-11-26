@@ -24,3 +24,13 @@
 @import url(../blocks/lead/__illustration/lead__illustration.css);
 @import url(../blocks/lead/__picture/lead__picture.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+
+
+
+/* footer */
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__line/footer__line.css);
+@import url(../blocks/footer/__line-links/footer__line-links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
