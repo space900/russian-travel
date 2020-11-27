@@ -8,3 +8,30 @@
     max-width: 720px;
     margin: auto;
 }
+
+@media screen and (max-width: 767px) {
+    .lead__title {
+        font-size: 4em;
+        line-height: 1em;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .lead__title {
+        max-width: 288px;
+        font-size: 3em;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .lead__title { 
+        font-size: 2.6em;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__title {
+        font-size: 2.2em;
+        line-height: 44px;
+    }
+}

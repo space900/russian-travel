@@ -4,3 +4,29 @@
     padding: 92px 0 92px;
     position: relative;
 }
+
+@media screen and (max-width: 1279px) {
+    .intro { 
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        max-width: 720px;
+        padding: 88px 0 88px;  
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro {
+        padding: 64px 0 64px;
+        max-width: 90%;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .intro {
+        max-width: 288px;
+    }
+}
