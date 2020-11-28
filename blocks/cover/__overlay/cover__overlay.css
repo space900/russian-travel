@@ -7,7 +7,7 @@
     justify-content: center;
     align-items: center;
     min-height: 740px;
-    background-position: center; 
+    background-position: center;
     text-decoration: none;
     background-size: cover;
     text-align: center;
@@ -24,7 +24,7 @@
     top: 0;
     left: 0;
     bottom: 0;
-    right: 0; 
+    right: 0;
 }
 
 .cover__overlay:hover::before {
@@ -34,13 +34,13 @@
 
 @media screen and (max-width: 1279px) {
     .cover__overlay {
-        min-height: 640px; 
+        min-height: 640px;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .cover__overlay {
-        min-height: 480px; 
+        min-height: 480px;
     }
 }
 
@@ -52,12 +52,12 @@
 
 @media screen and (max-width: 424px) {
     .cover__overlay {
-        min-height: 250px; 
+        min-height: 250px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .cover__overlay {
-        min-height: 200px; 
+        min-height: 200px;
     }
 }

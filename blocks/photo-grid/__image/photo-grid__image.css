@@ -3,7 +3,7 @@
 }
 
 @media screen and (max-width: 766px) {
-    .photo-grid__image { 
+    .photo-grid__image {
         margin: auto;
     }
 }
