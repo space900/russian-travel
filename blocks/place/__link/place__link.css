@@ -1,4 +1,4 @@
-.place__website_link {
+.place__link {
     color: #ffffff;
     font-style: normal;
     font-weight: 400;
@@ -7,11 +7,11 @@
     text-decoration-line: underline;
 }
 
-.place__website_link:hover {
+.place__link:hover {
     opacity: 0.8;
     transition: 1s;
 }
 
-.place__website_link:not(:hover) {
+.place__link:not(:hover) {
     transition: 1s;
 }

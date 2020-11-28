@@ -66,7 +66,7 @@
 @import url(../blocks/place/__description/place__description.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__website/_link/place__website_link.css);
+@import url(../blocks/place/__link/place__link.css);
 
 
 /* cover */
