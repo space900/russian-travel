@@ -8,3 +8,30 @@
     width: 31%;
     position: relative;
 }
+
+@media screen and (max-width: 1279px) {
+    .cover__subtitle {
+        width: 35.15%;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .cover__subtitle {
+        width: 46.88%;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+    .cover__subtitle {
+        margin: 0 20%;
+        font-size: 14px;
+        line-height: 16px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .cover__subtitle {
+        width: 90%;
+    }
+}

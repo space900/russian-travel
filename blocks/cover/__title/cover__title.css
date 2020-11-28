@@ -8,3 +8,30 @@
     width: 45%;
     position: relative;
 }
+
+@media screen and (max-width: 1279px) {
+    .cover__title { 
+        width: 54.67%;  
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .cover__title { 
+        width: 72.92%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover__title {
+        font-size: 48px;
+        line-height: 125%;
+        margin: 0 auto 32px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .cover__title {
+        font-size: 32px;
+        line-height: 109%;
+    }
+}

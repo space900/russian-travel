@@ -5,3 +5,11 @@
     display: flex;
     column-gap: 18px;
 }
+
+@media screen and (max-width: 767px) {
+    .footer__line-links {
+        display: grid;
+        row-gap: 32px;
+        grid-template-columns: 1fr; 
+    }
+}

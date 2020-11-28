@@ -3,3 +3,9 @@
     align-self: end;
     row-gap: 12px;
 }
+
+@media screen and (max-width: 767px) {
+    .place__website {
+        display: none;
+    }
+}

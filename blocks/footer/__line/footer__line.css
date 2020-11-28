@@ -3,3 +3,9 @@
     grid-template-columns: 1fr 1fr;
     color: #FFFFFF;
 }
+
+@media screen and (max-width: 767px) {
+    .footer__line {
+        grid-template-columns: 1fr; 
+    }
+}
