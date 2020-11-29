@@ -8,6 +8,12 @@
     line-height: 117%;
     text-align: right;
     text-decoration: none;
+    transition: 1s;
+}
+
+.header__lang-link:hover {
+    transition: 1s;
+    opacity: 0.5;
 }
 
 @media screen and (max-width: 767px) {
