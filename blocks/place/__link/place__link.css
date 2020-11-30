@@ -5,13 +5,10 @@
     font-size: 18px;
     line-height: 122%;
     text-decoration-line: underline;
+    transition: 1s;
 }
 
 .place__link:hover {
     opacity: 0.8;
-    transition: 1s;
-}
-
-.place__link:not(:hover) {
     transition: 1s;
 }
