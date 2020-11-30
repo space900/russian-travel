@@ -12,12 +12,14 @@
         line-height: 46px;
         width: 100%;
         margin: 0 auto;
+        align-self: end;
     }
 }
 
 @media screen and (max-width: 767px) {
     .place__title {
         width: 90%;
+        line-height: 76px;
     }
 }
 
