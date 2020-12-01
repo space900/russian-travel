@@ -1,0 +1,15 @@
+.section-text {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    max-width: 70%;
+    font-weight: 400;
+    margin: 40px 0 32px;
+}
+
+@media screen and (max-width: 1023px) {
+    .section-text {
+        max-width: 100%;
+    }
+}
