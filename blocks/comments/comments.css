@@ -2,3 +2,15 @@
     margin: 0 auto 100px;
     max-width: 1184px;
 }
+
+@media screen and (max-width: 1279px) {
+    .comments {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 374px) {
+    .comments {
+        width: 90%;
+    }
+}

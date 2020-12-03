@@ -1,3 +1,9 @@
 .cards__item {
     max-width: 382px;
 }
+
+@media screen and (max-width: 374px) {
+    .cards__item {
+        display: grid;
+    }
+}

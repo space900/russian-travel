@@ -6,3 +6,10 @@
     text-align: start;
     list-style-type: none;
 }
+
+@media screen and (max-width: 374px) {
+    .cards {
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+    }
+}

@@ -6,3 +6,13 @@
     line-height: 23.72px;
     margin: 0 auto 24px;
 }
+
+@media screen and (max-width: 374px) {
+    .cards__description {
+        font-size: 16px;
+        line-height: 23.24px;
+        text-align: start;
+        order: 2;
+        margin: 24px auto 48px;
+    }
+}

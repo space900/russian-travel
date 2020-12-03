@@ -8,3 +8,10 @@
     margin: auto;
     max-width: 800px;
 }
+
+@media screen and (max-width: 374px) {
+    .comments__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

@@ -7,3 +7,9 @@
     margin: 0;
     letter-spacing: 0.08em;
 }
+
+@media screen and (max-width: 374px) {
+    .cards__author {
+        line-height: 23.72px;
+    }
+}

@@ -8,3 +8,11 @@
     line-height: 34.85px;
     max-width: 640px;
 }
+
+@media screen and (max-width: 374px) {
+    .comments__subtitle {
+        font-size: 16px;
+        line-height: 23px;
+        margin: 16px auto 40px;
+    }
+}
