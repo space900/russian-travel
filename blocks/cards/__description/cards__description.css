@@ -4,15 +4,16 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 23.72px;
-    margin: 0 auto 24px;
+    margin: 0 0 24px;
+    max-width: 382px;
 }
 
-@media screen and (max-width: 374px) {
+@media screen and (max-width: 1023px) {
     .cards__description {
+        margin: 24px auto 48px;
+        text-align: start;
         font-size: 16px;
         line-height: 23.24px;
-        text-align: start;
         order: 2;
-        margin: 24px auto 48px;
     }
 }

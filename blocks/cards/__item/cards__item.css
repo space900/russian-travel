@@ -1,9 +1,9 @@
-.cards__item {
-    max-width: 382px;
-}
-
-@media screen and (max-width: 374px) {
+@media screen and (max-width: 1023px) {
     .cards__item {
-        display: grid;
+        display: grid; 
+    }
+
+    .cards__item:last-child {
+        margin: 0 0 -48px;
     }
 }

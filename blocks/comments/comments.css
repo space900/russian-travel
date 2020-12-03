@@ -9,8 +9,22 @@
     }
 }
 
+@media screen and (max-width: 1023px) {
+    .comments {
+        max-width: 660px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .comments {
+        width: 90%;
+        margin: 0 auto 48px;
+    }
+}
+
 @media screen and (max-width: 374px) {
     .comments {
         width: 90%;
+        margin: 0 auto 64px;
     }
 }

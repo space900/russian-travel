@@ -9,6 +9,22 @@
     max-width: 640px;
 }
 
+@media screen and (max-width: 1023px) {
+    .comments__subtitle {
+        font-size: 16px;
+        line-height: 23.24px;
+        margin: 24px auto 72px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .comments__subtitle {
+        font-size: 16px;
+        line-height: 23.24px;
+        margin: 16px auto 48px;
+    }
+}
+
 @media screen and (max-width: 374px) {
     .comments__subtitle {
         font-size: 16px;
