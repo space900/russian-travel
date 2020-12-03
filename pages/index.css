@@ -66,6 +66,22 @@
 @import url(../blocks/place/__link/place__link.css);
 
 
+/* comments */
+
+@import url(../blocks/comments/comments.css);
+@import url(../blocks/comments/__title/comments__title.css);
+@import url(../blocks/comments/__subtitle/comments__subtitle.css);
+
+
+/* cards */
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__description/cards__description.css);
+@import url(../blocks/cards/__author/cards__author.css);
+
+
 /* cover */
 
 @import url(../blocks/cover/cover.css);
