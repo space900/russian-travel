@@ -1,0 +1,10 @@
+.video__subtitle {
+    color: #FFFFFF;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    margin: 48px auto 72px;
+    line-height: 34.85px;
+    max-width: 640px;
+}
