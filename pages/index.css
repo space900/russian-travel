@@ -106,3 +106,6 @@
 @import url(../blocks/footer/__line-links/footer__line-links.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+
+
+@import url(../blocks/overlay/overlay.css);
